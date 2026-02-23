@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Linear Regression Predictor</title>
+</head>
+<body>
+    <h2>Student Marks Prediction</h2>
+
+    <form action="/predict" method="post">
+        <input type="text" name="hours" placeholder="Enter Study Hours" required>
+        <button type="submit">Predict</button>
+    </form>
+
+    <br>
+    <h3>{{ prediction_text }}</h3>
+</body>
+</html>
