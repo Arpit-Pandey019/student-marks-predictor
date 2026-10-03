@@ -6,7 +6,7 @@
 ## 🌍 🔗 Live Project Link
 
 👉 **Click Here To Visit:**  
-https://student-marks-predictor-xbes.onrender.com/predict
+https://student-marks-predictor-xbes.onrender.com
 
 ---
 
